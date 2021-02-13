@@ -1,0 +1,10 @@
+D:\C#\week11\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\C#\week11\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\C#\week11\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\C#\week11\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+D:\C#\week11\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\C#\week11\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\C#\week11\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\C#\week11\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\C#\week11\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\C#\week11\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb

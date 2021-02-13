@@ -1,0 +1,10 @@
+D:\C#\week12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\C#\week12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\C#\week12\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\C#\week12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\C#\week12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\C#\week12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\C#\week12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\C#\week12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\C#\week12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\C#\week12\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

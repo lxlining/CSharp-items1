@@ -1,0 +1,12 @@
+D:\C#\test\记事本\bin\Debug\记事本.exe.config
+D:\C#\test\记事本\bin\Debug\记事本.exe
+D:\C#\test\记事本\bin\Debug\记事本.pdb
+D:\C#\test\记事本\obj\Debug\记事本.csprojAssemblyReference.cache
+D:\C#\test\记事本\obj\Debug\记事本.Form1.resources
+D:\C#\test\记事本\obj\Debug\记事本.Properties.Resources.resources
+D:\C#\test\记事本\obj\Debug\记事本.csproj.GenerateResource.cache
+D:\C#\test\记事本\obj\Debug\记事本.csproj.CoreCompileInputs.cache
+D:\C#\test\记事本\obj\Debug\记事本.exe
+D:\C#\test\记事本\obj\Debug\记事本.pdb
+D:\C#\test\记事本\obj\Debug\记事本.Form2.resources
+D:\C#\test\记事本\obj\Debug\记事本.Form3.resources
